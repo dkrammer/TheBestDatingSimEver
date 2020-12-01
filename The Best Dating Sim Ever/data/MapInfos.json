@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Beginning","order":1,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":2,"expanded":false,"name":"Martha","order":2,"parentId":1,"scrollX":893.4545454545455,"scrollY":494.1818181818182},
-{"id":3,"expanded":false,"name":"Dwayne","order":3,"parentId":1,"scrollX":893.4545454545455,"scrollY":494.1818181818182},
+{"id":1,"expanded":true,"name":"Beginning","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":false,"name":"Martha","order":2,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"Dwayne","order":3,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":4,"expanded":false,"name":"GameOver","order":4,"parentId":1,"scrollX":854.5714285714286,"scrollY":672},
 {"id":5,"expanded":false,"name":"At Home","order":5,"parentId":0,"scrollX":832,"scrollY":640}
 ]

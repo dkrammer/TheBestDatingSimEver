@@ -3,6 +3,8 @@ null,
 {"id":1,"expanded":true,"name":"Beginning","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":false,"name":"Martha","order":2,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":3,"expanded":false,"name":"Dwayne","order":3,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":false,"name":"GameOver","order":4,"parentId":1,"scrollX":854.5714285714286,"scrollY":672},
-{"id":5,"expanded":false,"name":"At Home","order":5,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":4,"expanded":true,"name":"GameOver","order":4,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"At Home","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"Wedding","order":6,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"The world blew up","order":5,"parentId":4,"scrollX":0,"scrollY":0}
 ]
